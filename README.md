@@ -1,8 +1,8 @@
-# SpeakEazy
+# Sign Wave
 
 ## Project Overview
 
-*SpeakEazy* is a website designed to bridge the gap between Deaf and Dumb individuals and the hearing community. This platform leverages advanced machine learning techniques and web development technologies to enable communication between individuals who use sign language and those who do not. The core idea of the project is to provide three main features that convert gestures into text, convert voice into text, and convert text into voice, enabling seamless communication across various modalities.
+*SignWave* is a website designed to bridge the gap between Deaf and Dumb individuals and the hearing community. This platform leverages advanced machine learning techniques and web development technologies to enable communication between individuals who use sign language and those who do not. The core idea of the project is to provide three main features that convert gestures into text, convert voice into text, and convert text into voice, enabling seamless communication across various modalities.
 
 ## Features
 
@@ -39,7 +39,7 @@
 
 1. Clone the repository:
    bash
-   git clone https://github.com/MupparajuKeerthi/SpeakEazy.git
+   git clone https://github.com/Dileepkumar25/SignWave
    
 
 2. Navigate to the project directory:
@@ -59,7 +59,7 @@
 
 ## How to Use
 
-1. *Gesture to Text*: The website captures real-time video or video file of gestures and converts them to text using machine learning. Users need to allow camera access to enable this feature.
+1. *Gesture to Text*: The website captures real-time video of gestures and converts them to text using machine learning. Users need to allow camera access to enable this feature.
    
 2. *Voice to Text*: Users can speak directly into their device’s microphone, and the website will convert their voice into text in real-time.
 
@@ -70,20 +70,4 @@
 - Improve gesture recognition accuracy with additional training data.
 - Add support for more languages and dialects.
 - Implement more sophisticated voice recognition and text-to-speech systems.
-
-## Contributors
-
-- Mupparaju Keerthi(https://github.com/MupparajuKeerthi)
-- Mancineella Sai Lokesh
-- P.V.Lokesh
-- Manchala Nandini
-- Kamal Vardhan
-- A.Mohama Sangeetha
-- Ganesh
-- Vardhan
-- Varun
-- Sruthi
-- Kyathi
-- Triveni
-- Mahipathi Siva Naga Raju
 
